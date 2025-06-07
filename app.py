@@ -9,4 +9,7 @@ Este es un prototipo de URBANFLOW para validar la integración con Streamlit Com
   
 - Si ves esta página, ¡todo está funcionando correctamente!  
 - Ahora puedes empezar a meter tu lógica de ETA y mapas.
+
+- Equipo 18 
+         :)
 """)
